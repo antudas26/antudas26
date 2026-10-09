@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: "https://www.facebook.com/antudas.rudra/"
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love Code
+
+- 
 About Me:
 Hi, I'm Antu Das, a passionate Web Developer and Designer based in Bangladesh. I specialize in crafting modern, high-performing websites that combine sleek aesthetics with seamless functionality.My primary focus is on bringing ideas to life through clean code and intuitive design, tailored to meet the specific goals of each project. Whether you are a startup building a brand from scratch or an established business seeking a digital upgrade, I deliver creative digital solutions that leave a lasting impact.
 
